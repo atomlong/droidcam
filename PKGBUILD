@@ -7,7 +7,6 @@ pkgbase=droidcam
 pkgname=('droidcam' 'v4l2loopback-dc-dkms')
 pkgver=2.0.0
 pkgrel=1
-epoch=1
 pkgdesc='A tool for using your android device as a wireless/usb webcam'
 arch=('x86_64' 'arm' 'armv6h' 'armv7h' 'aarch64')
 url="https://github.com/aramg/${pkgbase}"
